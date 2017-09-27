@@ -24,3 +24,6 @@
   OUTFIL FNAMES=BOTH,INCLUDE=(35,1,CH,EQ,C'B'),
     BUILD=(1,14,/,15,20)
 /*
+
+
+https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.1.0/com.ibm.zos.v2r1.icea100/ice2ca_Example_5_-_Paired_and_unpaired_F1_F2_records__indicator_method_.htm
