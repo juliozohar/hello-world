@@ -1,3 +1,7 @@
+//***********************************************
+//*STEP TO SORT RECORDS FROM TWO DIFFERENT FILES
+//***********************************************
+//*
 //JKE5  EXEC  PGM=SORT
 //SYSOUT    DD  SYSOUT=*
 //SORTJNF1 DD DSN=FIRST.FILE,DISP=SHR
